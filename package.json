@@ -1,0 +1,14 @@
+{
+  "name": "fis3-deploy-rsync",
+  "version": "1.0.0",
+  "description": "fis3 deploy plugin, use rsync to deploy files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Liu <liuyunwei@yanxiu.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rsync": "^0.6.1"
+  }
+}

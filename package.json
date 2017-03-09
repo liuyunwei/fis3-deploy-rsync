@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-rsync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fis3 deploy plugin, use rsync to deploy files",
   "main": "index.js",
   "scripts": {

@@ -6,7 +6,7 @@
 > 使用windows的同学需要安装cgwin以及rsync插件
 > 需要自行在目标机器上进行rsync/ssh免密，否则会要求输入ssh的密码
 
-
+安装：`npm install fis3-deploy-rsync --save-dev`
 ```javascript
 
 var cache = path.join(__dirname, './output/');
